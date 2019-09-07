@@ -31,7 +31,7 @@ return [
             'class' => Connection::class,
             'dsn' => 'mysql:host=localhost;dbname=yii2_advanced_start',
             'username' => 'root',
-            'password' => 'x8kl77@A',
+            'password' => '',
             'charset' => 'utf8',
             'tablePrefix' => 'tbl_',
             'enableSchemaCache' => true
