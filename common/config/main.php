@@ -29,9 +29,9 @@ return [
     'components' => [
         'db' => [
             'class' => Connection::class,
-            'dsn' => 'mysql:host=localhost;dbname=nameDb',
-            'username' => '',
-            'password' => '',
+            'dsn' => 'mysql:host=localhost;dbname=yii2_advanced_start',
+            'username' => 'root',
+            'password' => 'x8kl77@A',
             'charset' => 'utf8',
             'tablePrefix' => 'tbl_',
             'enableSchemaCache' => true
